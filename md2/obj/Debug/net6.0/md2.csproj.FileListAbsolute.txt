@@ -1,0 +1,15 @@
+C:\Users\maria\source\repos\md2\md2\bin\Debug\net6.0\md2.exe
+C:\Users\maria\source\repos\md2\md2\bin\Debug\net6.0\md2.deps.json
+C:\Users\maria\source\repos\md2\md2\bin\Debug\net6.0\md2.runtimeconfig.json
+C:\Users\maria\source\repos\md2\md2\bin\Debug\net6.0\md2.dll
+C:\Users\maria\source\repos\md2\md2\bin\Debug\net6.0\md2.pdb
+C:\Users\maria\source\repos\md2\md2\obj\Debug\net6.0\md2.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\md2\md2\obj\Debug\net6.0\md2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\md2\md2\obj\Debug\net6.0\md2.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\md2\md2\obj\Debug\net6.0\md2.AssemblyInfo.cs
+C:\Users\maria\source\repos\md2\md2\obj\Debug\net6.0\md2.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\md2\md2\obj\Debug\net6.0\md2.dll
+C:\Users\maria\source\repos\md2\md2\obj\Debug\net6.0\refint\md2.dll
+C:\Users\maria\source\repos\md2\md2\obj\Debug\net6.0\md2.pdb
+C:\Users\maria\source\repos\md2\md2\obj\Debug\net6.0\md2.genruntimeconfig.cache
+C:\Users\maria\source\repos\md2\md2\obj\Debug\net6.0\ref\md2.dll
